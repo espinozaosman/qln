@@ -1,9 +1,6 @@
 (function ($) {
     "use strict";
     
-    // Buy Now Btn
-    $('body').append("<a href='https://1.envato.market/x9KGy1' class='buy-now-btn' target='_blank'><img src='assets/img/envato.png' alt='envato'/>Buy Now</a>"); 
-    
     //Preloader
     $(window).on('load', function (event) {
         $('.js-preloader').delay(500).fadeOut(500);
