@@ -84,7 +84,7 @@ input {
 }
 
 a {
-  color: #051145;
+  color: #000;
   text-transform: inherit;
   text-decoration: none;
   transition: all 0.3s ease;
@@ -113,7 +113,7 @@ h4,
 h5,
 h6 {
   font-weight: 600;
-  color: #051145;
+  color: #000;
   font-family: "Lexend", sans-serif;
 }
 
@@ -724,7 +724,7 @@ select {
 }
 .btn.style2 {
   background-color: #fff;
-  color: #051145;
+  color: #000;
   box-shadow: 0 0 15px rgba(0, 0, 0, 0.04);
 }
 .btn.style2:after, .btn.style2:before {
@@ -784,7 +784,7 @@ select {
   transition: all 0.4s ease-in-out;
 }
 .link.style1 {
-  color: #051145;
+  color: #000;
 }
 .link.style1:hover {
   color: #171717;
@@ -823,7 +823,7 @@ select {
   display: inline-block;
   position: relative;
   top: 0px;
-  color: #051145;
+  color: #000;
   margin: 0 auto;
   transition: all 0.4s ease-in-out;
 }
@@ -1436,11 +1436,10 @@ select {
   content: "";
   width: 100%;
   z-index: -1;
-  height: 67%;
+  height: 35%;
   background-color: #171717;
 }
 .header-wrap.style1 .header-bottom {
-  background-color: #fff;
   padding: 0 15px;
   position: relative;
   box-shadow: 0px 4px 20px rgba(5, 17, 69, 0.01);
@@ -1449,10 +1448,9 @@ select {
   right: 0;
 }
 .header-wrap.style1 .header-top .header-top-left .contact-info li span, .header-wrap.style2 .header-top .header-top-left .contact-info li span {
-  background-color: #fff;
 }
 .header-wrap.style1 .header-top .header-top-left .contact-info li span i, .header-wrap.style2 .header-top .header-top-left .contact-info li span i {
-  color: #051145;
+  color: #000;
 }
 .header-wrap.style1 .header-top .header-top-left .contact-info li:hover span, .header-wrap.style2 .header-top .header-top-left .contact-info li:hover span {
   color: #171717;
@@ -1470,7 +1468,7 @@ select {
   color: #fff;
 }
 .header-wrap.style1 .header-top .header-top-right .social-profile li a i, .header-wrap.style2 .header-top .header-top-right .social-profile li a i {
-  color: #051145;
+  color: #000;
 }
 .header-wrap.style1 .header-top .header-top-right .social-profile li a:hover, .header-wrap.style2 .header-top .header-top-right .social-profile li a:hover {
   background-color: #fff;
@@ -1504,16 +1502,16 @@ select {
   color: #fff;
 }
 .header-wrap.style3 .header-top .header-top-left .contact-info li a, .header-wrap.style3 .header-top .header-top-left .contact-info li p {
-  color: #051145;
+  color: #000;
 }
 .header-wrap.style3 .header-top .header-top-right .select-lang i {
   color: #171717;
 }
 .header-wrap.style3 .header-top .header-top-right .select-lang .navbar-language .dropdown-toggle span {
-  color: #051145;
+  color: #000;
 }
 .header-wrap.style3 .header-top .header-top-right .select-lang .navbar-language .dropdown-toggle:before {
-  color: #051145;
+  color: #000;
 }
 .header-wrap.style3 .header-top .header-top-right .social-profile li a {
   background-color: rgba(28, 114, 97, 0.09);
@@ -1990,9 +1988,7 @@ select {
   }
   .mobile-menu {
     text-align: right;
-    margin-left: 15px;
     display: inline-block;
-    position: relative;
     top: -5px;
   }
   .mobile-menu a {
@@ -2105,7 +2101,7 @@ select {
     margin-left: 0;
   }
   .header-wrap .navbar .navbar-nav .nav-item a {
-    color: #051145;
+    color: #000;
     font-weight: 400;
     padding: 30px 0;
     transition: 0.4s;
@@ -2859,7 +2855,7 @@ select {
   border-radius: 0;
 }
 .hero-wrap.style1 .hero-slide-item .hero-content .hero-btn .play-video {
-  color: #051145;
+  color: #000;
 }
 .hero-wrap.style1 .hero-slide-item .hero-content .feedback-wrap {
   margin-top: 60px;
@@ -3293,7 +3289,7 @@ select {
   line-height: 46px;
   font-weight: 700;
   display: block;
-  color: #051145;
+  color: #000;
 }
 .about-wrap .about-img-wrap {
   position: relative;
@@ -3934,7 +3930,7 @@ select {
 }
 .product-card .product-info .product-price {
   margin: 0 0 12px;
-  color: #051145;
+  color: #000;
   font-weight: 700;
   font-size: 20px;
   line-height: 30px;
@@ -4528,7 +4524,7 @@ select {
   content: "";
   width: 100%;
   height: 100%;
-  background: linear-gradient(180deg, rgba(5, 17, 69, 0.2) 30.25%, #051145 100%);
+  background: linear-gradient(180deg, rgba(5, 17, 69, 0.2) 30.25%, #000 100%);
   opacity: 0.8;
   z-index: -1;
 }
@@ -4563,7 +4559,7 @@ select {
 }
 .pricing-card.style2 .pricing-header .pricing-header-left h2 span {
   font-size: 16px;
-  color: #051145;
+  color: #000;
   font-weight: 400;
   margin-left: 5px;
 }
@@ -4845,7 +4841,7 @@ Appointment Section  CSS
 .promo-box p span {
   font-family: "Lexend", sans-serif;
   font-size: 36px;
-  color: #051145;
+  color: #000;
   font-weight: 700;
   line-height: 46px;
   display: block;
@@ -4952,7 +4948,7 @@ Appointment Section  CSS
   font-family: "Lexend", sans-serif;
   font-weight: 600;
   text-align: center;
-  color: #051145;
+  color: #000;
   border: 1px solid rgba(0, 0, 0, 0.1);
 }
 .cart-table table tbody {
@@ -5767,7 +5763,7 @@ article {
 .wp-block-quote p {
   width: calc(100% - 90px);
   font-weight: 500;
-  color: #051145;
+  color: #000;
   font-size: 18px;
   font-weight: 500;
   margin: 0 0 0 20px;
@@ -5922,7 +5918,7 @@ article {
   display: inline-block;
   line-height: 1;
   font-weight: 600;
-  color: #051145;
+  color: #000;
   font-size: 15px;
   transition: 0.3s;
 }
